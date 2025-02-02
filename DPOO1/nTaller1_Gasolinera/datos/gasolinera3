@@ -1,0 +1,13 @@
+tipo:ACPM:14000:1100.0
+tipo:Extra:16700:1200.0
+tipo:Corriente:15200:1000.0
+tipo:Diesel:19000:900.0
+surtidor:Isabella:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Isabella:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Carlos:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Diego:ACPM:0.0:Extra:0.0:Corriente:0.0:Diesel:0.0
+empleado:Laura:0
+empleado:Diego:0
+empleado:Isabella:0
+empleado:Carlos:0
+empleado:Jimmy:0
